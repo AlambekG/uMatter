@@ -9,3 +9,5 @@ Manager side: There is another home page of manager. Before accessing the page m
 The Weekly report page shows the report form survey evaluation which is done weekly by employees. Chilling page provides suggestions for manager
 
 References: Raccoon images were downloaded from https://freepik.com Author @pch.vector
+
+Presentation: https://drive.google.com/file/d/1VKJ77caO_BY8kXP2ivwWyHCKIW0xz3mv/view?usp=sharing
